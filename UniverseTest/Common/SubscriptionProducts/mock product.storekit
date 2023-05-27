@@ -1,0 +1,56 @@
+{
+  "identifier" : "8E40251D",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "777848B6",
+      "localizations" : [
+
+      ],
+      "name" : "Pro Version",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "87609ABF",
+          "introductoryOffer" : {
+            "internalID" : "9E8E3EA4",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "7-Day Free Trial",
+              "displayName" : "Monthly pro version",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.UniverseAppsTest.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly pro version",
+          "subscriptionGroupID" : "777848B6",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
