@@ -1,6 +1,6 @@
-#iOS Developer Test Task
+# iOS Developer Test Task
 
-##Onboarding Screens
+## Onboarding Screens
 
 **Requirements:**
 
