@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1EBF6D8F2A24527600C1394A"
+               BlueprintIdentifier = "1E6273B92AE1C4B1001359B7"
                BuildableName = "UniverseTest.app"
                BlueprintName = "UniverseTest"
                ReferencedContainer = "container:UniverseTest.xcodeproj">
@@ -44,7 +44,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1EBF6D8F2A24527600C1394A"
+            BlueprintIdentifier = "1E6273B92AE1C4B1001359B7"
             BuildableName = "UniverseTest.app"
             BlueprintName = "UniverseTest"
             ReferencedContainer = "container:UniverseTest.xcodeproj">
@@ -64,7 +64,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1EBF6D8F2A24527600C1394A"
+            BlueprintIdentifier = "1E6273B92AE1C4B1001359B7"
             BuildableName = "UniverseTest.app"
             BlueprintName = "UniverseTest"
             ReferencedContainer = "container:UniverseTest.xcodeproj">
